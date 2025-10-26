@@ -73,7 +73,7 @@ node "D:\nodejs\nodered\node_modules\node-red\red.js" -u "D:\nodejs\nodered\work
 - đã hiểu cách frond-end tương tác với back-end ra sao?
 -------------------------------------------------------------------------------------------------
 
-Bài làm:
+# Bài làm:
 2.1. Cài đặt Apache web server:
 - Vô hiệu hóa IIS: <br>
   <img width="640" height="376" alt="image" src="https://github.com/user-attachments/assets/51ffdd9a-fe4c-497e-b757-fd7b1f380c88" /><br>
